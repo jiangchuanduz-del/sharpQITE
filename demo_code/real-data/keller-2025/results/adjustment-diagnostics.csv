@@ -1,0 +1,2 @@
+"outcome","training_n","training_treated","inference_n","inference_treated","selected_set","features","bandwidth_multiplier","balanced_cv_crps","beta_adjust","tau_plugin","median_ess_treated","median_ess_control","infinite_argmins"
+"vocabulary",1100,572,1100,564,"own_pretest",1,1,1.59227390369593,0.5,-1,169.061123718433,152.572346192765,0

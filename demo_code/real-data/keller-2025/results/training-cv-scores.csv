@@ -1,0 +1,11 @@
+"outcome","set","features","multiplier","balanced_cv_crps","selected"
+"vocabulary","own_pretest",1,1,1.59227390369593,TRUE
+"vocabulary","own_pretest",1,0.75,1.59248244467427,FALSE
+"vocabulary","own_pretest",1,0.5,1.60103780115353,FALSE
+"vocabulary","own_pretest",1,1.5,1.60174438787144,FALSE
+"vocabulary","own_pretest",1,2,1.62266075594719,FALSE
+"vocabulary","own_pretest",1,0.25,1.63699103615897,FALSE
+"vocabulary","own_pretest",1,3,1.69810373235171,FALSE
+"vocabulary","own_pretest",1,4,1.79436483646569,FALSE
+"vocabulary","own_pretest",1,6,1.95401393786588,FALSE
+"vocabulary","own_pretest",1,8,2.04810873205936,FALSE

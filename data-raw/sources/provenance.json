@@ -1,0 +1,66 @@
+[
+  {
+    "source_path": "README.md",
+    "local_path": "sources/upstream-README.md",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/README.md",
+    "git_blob_sha1": "ae915393d72473ec8d69d2c621628a7097194122",
+    "sha256": "0A3E2EA1E7F2D7A66AC0533CE428F854BC11C5084BE86ADB5BE7704D64B952AC",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "LICENSE.md",
+    "local_path": "sources/LICENSE.md",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/LICENSE.md",
+    "git_blob_sha1": "c307ad30b749a730b194b15e846836a6002f5325",
+    "sha256": "7F74D341AFE8D45B381E2BCE074D92AF6EBDFA20CFF70D699275C677A04733B7",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "LICENSE",
+    "local_path": "sources/LICENSE",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/LICENSE",
+    "git_blob_sha1": "3d297f98be18dff9ee33f39ae3b92d206b26d51d",
+    "sha256": "406DEDA4B7DB81114DE952F0EF256E75E458DEFAF635EEE87AE30BCC9235384C",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "DESCRIPTION",
+    "local_path": "sources/DESCRIPTION",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/DESCRIPTION",
+    "git_blob_sha1": "41dc3125d5edd7b58f5e0142fb6327169415f3fa",
+    "sha256": "177014D48EA86C21D5044E61CEFAAAAB04B4BD81527E56B0D98D377B70357688",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "R/WSCdata.R",
+    "local_path": "sources/WSCdata-documentation.R",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/R/WSCdata.R",
+    "git_blob_sha1": "fcda1eddabd89872384d778504c9c88f2fb6ade7",
+    "sha256": "30604A1748BBC06757EAE3F1B71419C4F04726745933076A4FF91677C106667C",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "data-raw/WSCdata_prep.R",
+    "local_path": "sources/WSCdata_prep.R",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/data-raw/WSCdata_prep.R",
+    "git_blob_sha1": "037e73352995ec6402a950659c4402260179827c",
+    "sha256": "7EB5ECF27623D67DB1C3336658AF538E23D1B8594AA60295152041CB42944F65",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "data/WSCdata.rda",
+    "local_path": "data/WSCdata.rda",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/data/WSCdata.rda",
+    "git_blob_sha1": "ce0ec577904c003711749d32d9229ff25f68459a",
+    "sha256": "B47BE7D8F2C0D54AF9CC71F3602183E61307A964E701A2CDCF3944BCEF85286B",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  },
+  {
+    "source_path": "man/WSCdata.Rd",
+    "local_path": "sources/WSCdata.Rd",
+    "url": "https://raw.githubusercontent.com/jzangela/WSCdata/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/man/WSCdata.Rd",
+    "git_blob_sha1": "7e0d326cc8225b6cc2e57429f5d702a491b8619d",
+    "sha256": "3B2A192AFDB8D127C6B40CCA0640F0A9B7D90C580DB92A86DF34D1873BE75BDB",
+    "commit": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6"
+  }
+]

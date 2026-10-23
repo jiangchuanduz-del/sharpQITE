@@ -1,0 +1,19 @@
+<html><meta charset="utf-8"><title>Vocabulary table</title><style>body{font-family:Georgia;margin:35px}td,th{padding:7px;text-align:right;border-bottom:1px solid #ddd}td:first-child{text-align:left}table{border-collapse:collapse}p{max-width:1100px;line-height:1.5}</style>
+<h1>Vocabulary training</h1><h2>90% simultaneous lower confidence bounds</h2><table>
+<tr><th>Method</th><th>10%</th><th>20%</th><th>30%</th><th>40%</th><th>50%</th><th>60%</th><th>70%</th><th>80%</th><th>90%</th><th>100%</th></tr>
+<tr><th colspan="11">Panel A: Inference sample (n = 1,100)</th></tr>
+<tr><td>Wilcoxon</td><td>-Inf</td><td>-Inf</td><td>-Inf</td><td>-Inf</td><td>-Inf</td><td>-6.00</td><td>-3.00</td><td>-1.00</td><td>1.00</td><td>2.00</td></tr>
+<tr><td>Stephenson (s=6)</td><td>-Inf</td><td>-Inf</td><td>-9.00</td><td>-6.00</td><td>-4.00</td><td>-3.00</td><td>-2.00</td><td>-1.00</td><td>1.00</td><td>2.00</td></tr>
+<tr><td>RKS</td><td>-15.00</td><td>-10.00</td><td>-7.00</td><td>-5.00</td><td>-3.00</td><td>-2.00</td><td>-1.00</td><td>1.00</td><td>2.00</td><td>3.00</td></tr>
+<tr><td>RKS + naive (pretest)</td><td>-11.00</td><td>-6.00</td><td>-4.00</td><td>-3.00</td><td>-1.00</td><td>-1.00</td><td>0.00</td><td>1.00</td><td>1.00</td><td>2.00</td></tr>
+<tr><td>RKS + optimal (pretest)</td><td>-9.00</td><td>-5.00</td><td>-4.00</td><td>-2.00</td><td>-1.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>2.00</td><td>2.00</td></tr>
+<tr><td>RKS + optimal (pretest + sex)</td><td>-9.00</td><td>-5.00</td><td>-4.00</td><td>-2.00</td><td>-1.00</td><td>0.00</td><td>1.00</td><td>1.00</td><td>2.00</td><td>2.00</td></tr>
+<tr><th colspan="11">Panel B: Full sample (n = 2,200)</th></tr>
+<tr><td>Wilcoxon</td><td>-Inf</td><td>-Inf</td><td>-Inf</td><td>-Inf</td><td>-Inf</td><td>-6.00</td><td>-3.00</td><td>-1.00</td><td>1.00</td><td>2.00</td></tr>
+<tr><td>Stephenson (s=6)</td><td>-Inf</td><td>-Inf</td><td>-9.00</td><td>-6.00</td><td>-4.00</td><td>-3.00</td><td>-2.00</td><td>-1.00</td><td>1.00</td><td>2.00</td></tr>
+<tr><td>RKS</td><td>-13.00</td><td>-9.00</td><td>-7.00</td><td>-5.00</td><td>-3.00</td><td>-2.00</td><td>0.00</td><td>1.00</td><td>2.00</td><td>3.00</td></tr>
+<tr><td>RKS + naive (pretest)</td><td>-11.00</td><td>-6.00</td><td>-4.00</td><td>-3.00</td><td>-2.00</td><td>-1.00</td><td>0.00</td><td>1.00</td><td>1.00</td><td>2.00</td></tr>
+<tr><td>RKS + optimal (pretest)</td><td>-12.00</td><td>-6.00</td><td>-4.00</td><td>-3.00</td><td>-2.00</td><td>-1.00</td><td>0.00</td><td>1.00</td><td>2.00</td><td>2.00</td></tr>
+<tr><td>RKS + optimal (pretest + sex)</td><td>-12.00</td><td>-6.00</td><td>-4.00</td><td>-3.00</td><td>-2.00</td><td>-1.00</td><td>0.00</td><td>1.00</td><td>2.00</td><td>2.00</td></tr>
+</table>
+<p>Vocabulary versus math training; outcome: vocabulary posttest score. Panel A: all methods infer on the same 1,100 held-out participants. Panel B: untrained methods use all 2,200 directly; learned adjustments use both training/inference directions. Bonferroni allocates alpha=0.05 per half and 0.025 per arm within each half; the half-sample sequences are pooled and sorted. This is the screenshot-selected pooled version. Optimal adjustments use beta_0=0.5; sex is the female indicator. Coverage is simultaneous across quantiles within each method, not across methods. Values rounded to two decimals.</p></html>

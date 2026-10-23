@@ -1,0 +1,6 @@
+PASS: two disjoint exhaustive halves; every participant contributes inference once.
+PASS: original first-half vocab-pretest fit reproduced exactly.
+PASS: exact RKS tails verify all critical heights and Bonferroni arm levels.
+PASS: stricter first-direction Bonferroni bounds do not exceed original bounds.
+PASS: pooled half-sample bounds equal pooled four-arm bounds.
+PASS: all six 2200-element bound sequences are monotone; 10 requested ranks exported.

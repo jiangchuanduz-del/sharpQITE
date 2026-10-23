@@ -1,0 +1,101 @@
+{
+  "sha": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+  "node_id": "C_kwDOMWvWxtoAKDYzNjBhNTI0NzU2N2MwZmY2MzJjZDEyYWEyZjZiM2NmZmY5MmIyYjY",
+  "commit": {
+    "author": {
+      "name": "jzangela",
+      "email": "jz3101@tc.columbia.edu",
+      "date": "2025-11-20T19:47:40Z"
+    },
+    "committer": {
+      "name": "jzangela",
+      "email": "jz3101@tc.columbia.edu",
+      "date": "2025-11-20T19:47:40Z"
+    },
+    "message": "Version number correction",
+    "tree": {
+      "sha": "288fb858b3e3a021cdf2cc4d43fd3628ba94fb40",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/288fb858b3e3a021cdf2cc4d43fd3628ba94fb40"
+    },
+    "url": "https://api.github.com/repos/jzangela/WSCdata/git/commits/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/jzangela/WSCdata/commits/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+  "html_url": "https://github.com/jzangela/WSCdata/commit/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+  "comments_url": "https://api.github.com/repos/jzangela/WSCdata/commits/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/comments",
+  "author": {
+    "login": "jzangela",
+    "id": 54962839,
+    "node_id": "MDQ6VXNlcjU0OTYyODM5",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54962839?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jzangela",
+    "html_url": "https://github.com/jzangela",
+    "followers_url": "https://api.github.com/users/jzangela/followers",
+    "following_url": "https://api.github.com/users/jzangela/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jzangela/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jzangela/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jzangela/subscriptions",
+    "organizations_url": "https://api.github.com/users/jzangela/orgs",
+    "repos_url": "https://api.github.com/users/jzangela/repos",
+    "events_url": "https://api.github.com/users/jzangela/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jzangela/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "jzangela",
+    "id": 54962839,
+    "node_id": "MDQ6VXNlcjU0OTYyODM5",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54962839?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jzangela",
+    "html_url": "https://github.com/jzangela",
+    "followers_url": "https://api.github.com/users/jzangela/followers",
+    "following_url": "https://api.github.com/users/jzangela/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jzangela/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jzangela/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jzangela/subscriptions",
+    "organizations_url": "https://api.github.com/users/jzangela/orgs",
+    "repos_url": "https://api.github.com/users/jzangela/repos",
+    "events_url": "https://api.github.com/users/jzangela/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jzangela/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "49eff6f405af80aecccc621bff71cc0b922231f4",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/commits/49eff6f405af80aecccc621bff71cc0b922231f4",
+      "html_url": "https://github.com/jzangela/WSCdata/commit/49eff6f405af80aecccc621bff71cc0b922231f4"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "41dc3125d5edd7b58f5e0142fb6327169415f3fa",
+      "filename": "DESCRIPTION",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/jzangela/WSCdata/blob/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/DESCRIPTION",
+      "raw_url": "https://github.com/jzangela/WSCdata/raw/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6/DESCRIPTION",
+      "contents_url": "https://api.github.com/repos/jzangela/WSCdata/contents/DESCRIPTION?ref=6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+      "patch": "@@ -1,6 +1,6 @@\n Package: WSCdata\n Title: A New Four-Arm Within-Study Comparison Data on Math and Vocabulary Training\n-Version: 0.1.3\n+Version: 0.1.1.9000\n Authors@R: c(person(\"Bryan\",\"Keller\", ,\"keller4@tc.columbia.edu\", role=c(\"aut\", \"cph\")), person(\"Sangbaek\",\"Park\", , \"qkr800507@gmail.com\", role=c(\"aut\", \"ctb\")), person(\"Jingru\",\"Zhang\", , \"jzhang2637@wisc.edu\", role= c(\"aut\", \"cre\")))\n Description: This dataset was collected using a new four-arm within-study comparison design. The study aimed to examine the impact of a mathematics training intervention and a vocabulary study session on post-test scores in mathematics and vocabulary, respectively. The innovative four-arm within-study comparison design facilitates both experimental and quasi-experimental identification of average causal effects.\n License: MIT + file LICENSE"
+    }
+  ]
+}

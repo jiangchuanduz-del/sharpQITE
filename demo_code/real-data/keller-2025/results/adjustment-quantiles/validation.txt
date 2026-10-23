@@ -1,0 +1,6 @@
+PASS: saved models use only the original training half.
+PASS: beta=0.5 reproduces saved held-out adjustments exactly for both models.
+PASS: every integer pretest score per panel and quantile matches canonical package argmins.
+Lines interpolate integer-score evaluations linearly for display.
+Quantile-specific curves do not change the existing fixed-beta=0.5 inference tables.
+At zero conditional-CDF minima, the plotted finite fallback is a valid nonunique minimizer.

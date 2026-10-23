@@ -1,0 +1,5 @@
+"outcome","method","N","first_finite_k","finite_limits","median","q75","q90","q95"
+"vocabulary","RKS",1100,81,1020,-3,0,2,2
+"vocabulary","RKS adjusted (beta=0.5)",1100,81,1020,-1,1,2,2
+"vocabulary","Wilcoxon",1100,582,519,-Inf,-2.00000050663948,0.999999597668648,0.999999761581421
+"vocabulary","Stephenson (s=6)",1100,263,838,-4.00000043213367,-1.00000056624413,0.999999344348907,0.999999731779099

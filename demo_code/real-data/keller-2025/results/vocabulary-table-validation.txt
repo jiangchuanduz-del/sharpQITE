@@ -1,0 +1,4 @@
+PASS: 10 quantiles, six methods, posttest outcome.
+PASS: additional fits use the same disjoint training sample, CV folds and frozen calibration.
+PASS: original five columns unchanged; all additional bounds monotone across ranks.
+PASS: existing bounds reused exactly; naive RKS recomputed with the same split and calibration.

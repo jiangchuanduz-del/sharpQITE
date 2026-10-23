@@ -1,0 +1,10 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+demo_code/.library/
+demo_code/logs/
+*.Rcheck/
+*.tar.gz
+*.zip
+Rplots.pdf

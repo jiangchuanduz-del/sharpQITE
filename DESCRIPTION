@@ -1,0 +1,17 @@
+Package: sharpQITE
+Type: Package
+Title: Design-Based Inference for Quantiles of Individual Treatment Effects
+Version: 0.2.6
+Authors@R: person("Jiangchuan", "Du", role = c("aut", "cre"),
+    email = "jiangchuand@uchicago.edu")
+Description: Randomization tests and simultaneous confidence bands for
+    quantiles of individual treatment effects in completely randomized
+    experiments. Implements the rank Kolmogorov-Smirnov statistic with an
+    exact dynamic programming reference distribution, Wilcoxon and Stephenson
+    rank statistics, kernel conditional distribution covariate adjustment,
+    sample splitting, and reproducible simulation comparisons. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: stats, graphics, grDevices, utils
+NeedsCompilation: no

@@ -1,0 +1,8 @@
+^demo_code$
+^data-raw$
+^.*[.]Rproj$
+^[.]Rproj[.]user$
+^[.]git$
+^[.]gitignore$
+^MANIFEST[.]csv$
+^VERIFICATION[.]md$

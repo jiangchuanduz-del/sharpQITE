@@ -1,0 +1,1148 @@
+{
+  "sha": "6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+  "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/6360a5247567c0ff632cd12aa2f6b3cfff92b2b6",
+  "tree": [
+    {
+      "path": ".Rbuildignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf3a6da7e92083c693fce62b1a544c3afaa5b791",
+      "size": 134,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/cf3a6da7e92083c693fce62b1a544c3afaa5b791"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c794aae41aff30b6f9d22e702313dc48d01232a",
+      "size": 59,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/7c794aae41aff30b6f9d22e702313dc48d01232a"
+    },
+    {
+      "path": "DESCRIPTION",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41dc3125d5edd7b58f5e0142fb6327169415f3fa",
+      "size": 1077,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/41dc3125d5edd7b58f5e0142fb6327169415f3fa"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d297f98be18dff9ee33f39ae3b92d206b26d51d",
+      "size": 45,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/3d297f98be18dff9ee33f39ae3b92d206b26d51d"
+    },
+    {
+      "path": "LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c307ad30b749a730b194b15e846836a6002f5325",
+      "size": 1074,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c307ad30b749a730b194b15e846836a6002f5325"
+    },
+    {
+      "path": "NAMESPACE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ae926839dd1829f1016a96f766d970ff184ad97",
+      "size": 46,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6ae926839dd1829f1016a96f766d970ff184ad97"
+    },
+    {
+      "path": "NEWS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "008570920acdf5ae89f1bab6c6f8925df6b7d07d",
+      "size": 206,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/008570920acdf5ae89f1bab6c6f8925df6b7d07d"
+    },
+    {
+      "path": "R",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "03ea963442f5262325fc31a61caad0a045eecb54",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/03ea963442f5262325fc31a61caad0a045eecb54"
+    },
+    {
+      "path": "R/AMAS_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81e47aaf114298f12ddf5c68b07429f554ad7064",
+      "size": 808,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/81e47aaf114298f12ddf5c68b07429f554ad7064"
+    },
+    {
+      "path": "R/BDI_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13be32c7ff28850d8eafaee4143e61c6a3798256",
+      "size": 722,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/13be32c7ff28850d8eafaee4143e61c6a3798256"
+    },
+    {
+      "path": "R/Big5_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "657957824bc69c0ed39b4d3d731ef965cb3fc1cf",
+      "size": 1174,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/657957824bc69c0ed39b4d3d731ef965cb3fc1cf"
+    },
+    {
+      "path": "R/GSES_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6466d75c35a8de4c0c951642e61491b2c75d29f3",
+      "size": 773,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6466d75c35a8de4c0c951642e61491b2c75d29f3"
+    },
+    {
+      "path": "R/MCS_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6de0e2bee4d5e4d5fc5cdc51a15fe5b0a52e5651",
+      "size": 1561,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6de0e2bee4d5e4d5fc5cdc51a15fe5b0a52e5651"
+    },
+    {
+      "path": "R/Math_Post_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "894684f4ff06332d403184cce40d9b87182ee148",
+      "size": 606,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/894684f4ff06332d403184cce40d9b87182ee148"
+    },
+    {
+      "path": "R/Math_Pre_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32eede6e5fe5fa6d7a52085e40d49384e81ec34f",
+      "size": 916,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/32eede6e5fe5fa6d7a52085e40d49384e81ec34f"
+    },
+    {
+      "path": "R/Math_Train_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e43409f68e8f3348c447f1ce75727f170a428b0a",
+      "size": 659,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/e43409f68e8f3348c447f1ce75727f170a428b0a"
+    },
+    {
+      "path": "R/Vocab_Post_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba6be36bd91777625ec666f076ac927e5f5988d9",
+      "size": 646,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/ba6be36bd91777625ec666f076ac927e5f5988d9"
+    },
+    {
+      "path": "R/Vocab_Pre_WSC.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "974db007008e52fcef4441904c966881f8297ca2",
+      "size": 512,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/974db007008e52fcef4441904c966881f8297ca2"
+    },
+    {
+      "path": "R/WSCdata.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcda1eddabd89872384d778504c9c88f2fb6ade7",
+      "size": 17433,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/fcda1eddabd89872384d778504c9c88f2fb6ade7"
+    },
+    {
+      "path": "README.Rmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c53f571f840f29bb2769f715804841aa9a68964",
+      "size": 6222,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/9c53f571f840f29bb2769f715804841aa9a68964"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae915393d72473ec8d69d2c621628a7097194122",
+      "size": 9117,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/ae915393d72473ec8d69d2c621628a7097194122"
+    },
+    {
+      "path": "WSCdata.Rproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69fafd4b6dddad27500cfc67efb9fb16e86a96bd",
+      "size": 414,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/69fafd4b6dddad27500cfc67efb9fb16e86a96bd"
+    },
+    {
+      "path": "WSCdata.bib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d72f6955e43b5f31340b4557be4825305a48fc4b",
+      "size": 2659,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d72f6955e43b5f31340b4557be4825305a48fc4b"
+    },
+    {
+      "path": "cran-comments.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "735c9ce41f2bba659c2ecdc04021ecf137b9cfdf",
+      "size": 279,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/735c9ce41f2bba659c2ecdc04021ecf137b9cfdf"
+    },
+    {
+      "path": "data-raw",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97a60964a3a66cb92c14e76aa98528014712e980",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/97a60964a3a66cb92c14e76aa98528014712e980"
+    },
+    {
+      "path": "data-raw/WSCdata_prep.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "037e73352995ec6402a950659c4402260179827c",
+      "size": 1170,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/037e73352995ec6402a950659c4402260179827c"
+    },
+    {
+      "path": "data-raw/df2200_cleaned.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acf25da715b88478133404142f44dec3076590b3",
+      "size": 237574,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/acf25da715b88478133404142f44dec3076590b3"
+    },
+    {
+      "path": "data-raw/fin_amas.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89c34f63be583ff5f86b3f8cfaa594aeae76de73",
+      "size": 39663,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/89c34f63be583ff5f86b3f8cfaa594aeae76de73"
+    },
+    {
+      "path": "data-raw/fin_bdi.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d76d2eb7d6d5ab35dca2a59227ceae837ead143c",
+      "size": 57295,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d76d2eb7d6d5ab35dca2a59227ceae837ead143c"
+    },
+    {
+      "path": "data-raw/fin_big5.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "692508024a9376a4dbc619f307f956cd2fc75f49",
+      "size": 193733,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/692508024a9376a4dbc619f307f956cd2fc75f49"
+    },
+    {
+      "path": "data-raw/fin_gses.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fed3619fbf1d0095c10f4b21ac52a799788dfc1",
+      "size": 28641,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/9fed3619fbf1d0095c10f4b21ac52a799788dfc1"
+    },
+    {
+      "path": "data-raw/fin_math_post.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce3ddc2aa8cc56e31e054d9b01208d9116907da6",
+      "size": 68310,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/ce3ddc2aa8cc56e31e054d9b01208d9116907da6"
+    },
+    {
+      "path": "data-raw/fin_math_pre.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63bfec75ec4b940b61078ee3e1bb6a6623d08c28",
+      "size": 55086,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/63bfec75ec4b940b61078ee3e1bb6a6623d08c28"
+    },
+    {
+      "path": "data-raw/fin_math_session.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7320bafb901537b88c45ac120bc7c4ea624d688c",
+      "size": 57630,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/7320bafb901537b88c45ac120bc7c4ea624d688c"
+    },
+    {
+      "path": "data-raw/fin_mcs.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "710e4c8eab96b12453fffe39ce0aa7ebbf76c822",
+      "size": 72647,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/710e4c8eab96b12453fffe39ce0aa7ebbf76c822"
+    },
+    {
+      "path": "data-raw/fin_vocab_post.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88d4a62e40e782bd677bb7a6773a6ae85bed91c5",
+      "size": 107982,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/88d4a62e40e782bd677bb7a6773a6ae85bed91c5"
+    },
+    {
+      "path": "data-raw/fin_vocab_pre.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50ca93a1e80ab70799ec4736a7867c95a3babd3a",
+      "size": 107982,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/50ca93a1e80ab70799ec4736a7867c95a3babd3a"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "68aab87069a731e1f235c100cc9d99187463de71",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/68aab87069a731e1f235c100cc9d99187463de71"
+    },
+    {
+      "path": "data/AMAS_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be5263a3a53054f25383e32d6c32497fbd13c305",
+      "size": 6069,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/be5263a3a53054f25383e32d6c32497fbd13c305"
+    },
+    {
+      "path": "data/BDI_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adb8d011053c31a1d9e1d3804ddb0b2ad18aa781",
+      "size": 6356,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/adb8d011053c31a1d9e1d3804ddb0b2ad18aa781"
+    },
+    {
+      "path": "data/Big5_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09f2fae035dd0cdbbcf428171a3428ffe9ecda57",
+      "size": 29332,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/09f2fae035dd0cdbbcf428171a3428ffe9ecda57"
+    },
+    {
+      "path": "data/GSES_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59bcd73109b04c457b67ada3423ab4e4c06d7745",
+      "size": 3562,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/59bcd73109b04c457b67ada3423ab4e4c06d7745"
+    },
+    {
+      "path": "data/MCS_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbbed91163f1e293971a1d85d777ae73d214f3e6",
+      "size": 7248,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/cbbed91163f1e293971a1d85d777ae73d214f3e6"
+    },
+    {
+      "path": "data/Math_Post_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e0d758cdb01d24e378cbc8168412c75ef2c06ca",
+      "size": 5454,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/9e0d758cdb01d24e378cbc8168412c75ef2c06ca"
+    },
+    {
+      "path": "data/Math_Pre_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "652038c14d62b77238254a01a93122acf432ad99",
+      "size": 4394,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/652038c14d62b77238254a01a93122acf432ad99"
+    },
+    {
+      "path": "data/Math_Train_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "953fdb555e262f4ef49e97b926eda7bfb97339b7",
+      "size": 4523,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/953fdb555e262f4ef49e97b926eda7bfb97339b7"
+    },
+    {
+      "path": "data/Vocab_Post_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3973bae8abe459cbcc8af7d47a6a962c55004b1a",
+      "size": 7064,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/3973bae8abe459cbcc8af7d47a6a962c55004b1a"
+    },
+    {
+      "path": "data/Vocab_Pre_WSC.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d215b24fcc910a39ea197042761bc87568d801e",
+      "size": 7290,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/1d215b24fcc910a39ea197042761bc87568d801e"
+    },
+    {
+      "path": "data/WSCdata.rda",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce0ec577904c003711749d32d9229ff25f68459a",
+      "size": 33689,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/ce0ec577904c003711749d32d9229ff25f68459a"
+    },
+    {
+      "path": "inst",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d330b3c54c598b0bb0d6ab580f84e08809292d52",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/d330b3c54c598b0bb0d6ab580f84e08809292d52"
+    },
+    {
+      "path": "inst/CITATION",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67d30f4dc5aa296f9cd82f18520ba89eeadca54d",
+      "size": 793,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/67d30f4dc5aa296f9cd82f18520ba89eeadca54d"
+    },
+    {
+      "path": "man",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bbc13e5d337c35a88e2f8bcc9fc54fe5c07bf2ee",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/bbc13e5d337c35a88e2f8bcc9fc54fe5c07bf2ee"
+    },
+    {
+      "path": "man/AMAS_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51f9df633f766d8fa79e17ab5159c17ee992826b",
+      "size": 880,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/51f9df633f766d8fa79e17ab5159c17ee992826b"
+    },
+    {
+      "path": "man/BDI_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d383d23d63a829c1318139f5cec17e953435839d",
+      "size": 792,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d383d23d63a829c1318139f5cec17e953435839d"
+    },
+    {
+      "path": "man/Big5_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a426dd547f06b34f0c29ad3c6dbb814de167ded9",
+      "size": 1243,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/a426dd547f06b34f0c29ad3c6dbb814de167ded9"
+    },
+    {
+      "path": "man/GSES_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f06f207b64bee9c9ddafdc7af539204d73905ebd",
+      "size": 845,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/f06f207b64bee9c9ddafdc7af539204d73905ebd"
+    },
+    {
+      "path": "man/MCS_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b7ecb2ded2c53b415efdc1865dd56162f0fb81f",
+      "size": 1590,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/2b7ecb2ded2c53b415efdc1865dd56162f0fb81f"
+    },
+    {
+      "path": "man/Math_Post_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a864bbf1e72b3d586101f5d85b05181e180d096",
+      "size": 694,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/1a864bbf1e72b3d586101f5d85b05181e180d096"
+    },
+    {
+      "path": "man/Math_Pre_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "657a579fa0b4cb9df1c97d7de9c3959316b934dc",
+      "size": 990,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/657a579fa0b4cb9df1c97d7de9c3959316b934dc"
+    },
+    {
+      "path": "man/Math_Train_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43751726eeaaf4ee3f77904c73d33a5635c1c971",
+      "size": 749,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/43751726eeaaf4ee3f77904c73d33a5635c1c971"
+    },
+    {
+      "path": "man/Vocab_Post_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29a4e6efe4aad90b31739a4dbfb69ae8e7f7983a",
+      "size": 736,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/29a4e6efe4aad90b31739a4dbfb69ae8e7f7983a"
+    },
+    {
+      "path": "man/Vocab_Pre_WSC.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af4c1520f99b373a7cd42270e96789bcd6240395",
+      "size": 606,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/af4c1520f99b373a7cd42270e96789bcd6240395"
+    },
+    {
+      "path": "man/WSCdata.Rd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e0d326cc8225b6cc2e57429f5d702a491b8619d",
+      "size": 16484,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/7e0d326cc8225b6cc2e57429f5d702a491b8619d"
+    },
+    {
+      "path": "man/figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f787fcfcd2fe93ff11a47cf566af1cfdbd97a8b8",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/f787fcfcd2fe93ff11a47cf566af1cfdbd97a8b8"
+    },
+    {
+      "path": "man/figures/README-unnamed-chunk-6-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d300d702530451d7fac559b66b6faf1bf455055e",
+      "size": 48546,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d300d702530451d7fac559b66b6faf1bf455055e"
+    },
+    {
+      "path": "revdep",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e094329ac1cd7bfdf5a5c2a98406def0417dd007",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/e094329ac1cd7bfdf5a5c2a98406def0417dd007"
+    },
+    {
+      "path": "revdep/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23e14225eab8f66f62a28c96eb1dfd786b3cc968",
+      "size": 871,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/23e14225eab8f66f62a28c96eb1dfd786b3cc968"
+    },
+    {
+      "path": "revdep/checks.noindex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "913af32174ca97b8a4a7b37afb892a662a69f999",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/913af32174ca97b8a4a7b37afb892a662a69f999"
+    },
+    {
+      "path": "revdep/checks.noindex/libraries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e46069d6069d03464910dcc79f468177efa34b63",
+      "size": 44,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/e46069d6069d03464910dcc79f468177efa34b63"
+    },
+    {
+      "path": "revdep/cran.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33114b63539a396003c02f91a80b490872804bc1",
+      "size": 195,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/33114b63539a396003c02f91a80b490872804bc1"
+    },
+    {
+      "path": "revdep/data.sqlite",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ec595c96e5b22d5632865d0957faa9f6a85f9d5",
+      "size": 24576,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/7ec595c96e5b22d5632865d0957faa9f6a85f9d5"
+    },
+    {
+      "path": "revdep/failures.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a2073633969291ca5c5a5656cea57eef4d8b1a1",
+      "size": 29,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/9a2073633969291ca5c5a5656cea57eef4d8b1a1"
+    },
+    {
+      "path": "revdep/library.noindex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "71161bc3208ab43cbe2636ebebaac43d399c30b0",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/71161bc3208ab43cbe2636ebebaac43d399c30b0"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "17cd924048ba9361fc914d5c6ac6df8d129fb863",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/17cd924048ba9361fc914d5c6ac6df8d129fb863"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "19f592b323ecf0d174695d1b4dd26d107c300889",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/19f592b323ecf0d174695d1b4dd26d107c300889"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf19b148e7ab4647d46750c66dc4eb80134f5894",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/bf19b148e7ab4647d46750c66dc4eb80134f5894"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/CITATION",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67d30f4dc5aa296f9cd82f18520ba89eeadca54d",
+      "size": 793,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/67d30f4dc5aa296f9cd82f18520ba89eeadca54d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/DESCRIPTION",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e8189da31fa3946de3353afd61397f293399e94",
+      "size": 1367,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/9e8189da31fa3946de3353afd61397f293399e94"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/INDEX",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "521f3f668212f7f8ef34c201b7d78db5af8a3efb",
+      "size": 552,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/521f3f668212f7f8ef34c201b7d78db5af8a3efb"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d297f98be18dff9ee33f39ae3b92d206b26d51d",
+      "size": 45,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/3d297f98be18dff9ee33f39ae3b92d206b26d51d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1347a50762002346f4bf9802b7ff02a7557e638e",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/1347a50762002346f4bf9802b7ff02a7557e638e"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/Rd.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "536a0ca44af4bbca48e09af078b770c555a2cc55",
+      "size": 495,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/536a0ca44af4bbca48e09af078b770c555a2cc55"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/data.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9fcfa2a50b0035dcc2d443d599fbbf43d1bd0cd",
+      "size": 286,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c9fcfa2a50b0035dcc2d443d599fbbf43d1bd0cd"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/features.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52bbc43e8fa7aac203e88e5dad2cf492a465df77",
+      "size": 123,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/52bbc43e8fa7aac203e88e5dad2cf492a465df77"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/hsearch.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "785798d1a54050420073e7a39a7c9f31193c8a9d",
+      "size": 486,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/785798d1a54050420073e7a39a7c9f31193c8a9d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/links.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d5f03026cf2bae16c5f0aa03b0200e1a532148d",
+      "size": 234,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/1d5f03026cf2bae16c5f0aa03b0200e1a532148d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/nsInfo.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "298b990b8a45454ed76222e4a145bd6e2c065b82",
+      "size": 191,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/298b990b8a45454ed76222e4a145bd6e2c065b82"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/Meta/package.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f47e54c0ce6a8dcfd79d08a813f097e8cd36066",
+      "size": 1186,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/2f47e54c0ce6a8dcfd79d08a813f097e8cd36066"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/NAMESPACE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ae926839dd1829f1016a96f766d970ff184ad97",
+      "size": 46,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6ae926839dd1829f1016a96f766d970ff184ad97"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/NEWS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2e038d4c0c9f8ba9841a2d13764abf3010d6a6e",
+      "size": 222,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c2e038d4c0c9f8ba9841a2d13764abf3010d6a6e"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/R",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d8dbe7f38fb8d79becc5db548533edb76118b364",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/d8dbe7f38fb8d79becc5db548533edb76118b364"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/R/WSCdata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6686156321de4dbdb52db7e32cd99961007f56e2",
+      "size": 1058,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6686156321de4dbdb52db7e32cd99961007f56e2"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/R/WSCdata.rdb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bde34e629363469e057c03e32e244f24f8ecd0d",
+      "size": 870,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/4bde34e629363469e057c03e32e244f24f8ecd0d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/R/WSCdata.rdx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "117a3552de8c677ef07dd923f64a6e41b4a58d56",
+      "size": 237,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/117a3552de8c677ef07dd923f64a6e41b4a58d56"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0ee852c53aad84221abc81b75a040c94fe5a7ba6",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/0ee852c53aad84221abc81b75a040c94fe5a7ba6"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/data/Rdata.rdb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5c26f4e7c0f01764c61c0d22217f481e3fce4a9",
+      "size": 174450,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d5c26f4e7c0f01764c61c0d22217f481e3fce4a9"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/data/Rdata.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a27725f796b16a87ec2a6250fe153f7cec91f57c",
+      "size": 186,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/a27725f796b16a87ec2a6250fe153f7cec91f57c"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/data/Rdata.rdx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5089cb1b87598c02a540f07d0a3915ecada55534",
+      "size": 304,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/5089cb1b87598c02a540f07d0a3915ecada55534"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "52e7c6a23f9e7f9a65f3b5b82958414b4ae35ac2",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/52e7c6a23f9e7f9a65f3b5b82958414b4ae35ac2"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/AnIndex",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c20c6583b32b09453473e70134192fad8d40c7c2",
+      "size": 244,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c20c6583b32b09453473e70134192fad8d40c7c2"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/WSCdata.rdb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f48a86c06d2e8443e8da74cbf0cf311096a43f2a",
+      "size": 23763,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/f48a86c06d2e8443e8da74cbf0cf311096a43f2a"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/WSCdata.rdx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a42cc0f82e218bf35e7b50171d246808169246c8",
+      "size": 384,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/a42cc0f82e218bf35e7b50171d246808169246c8"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/aliases.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07182fdbf0eec9fcefb482f511850a37cd2d5f41",
+      "size": 157,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/07182fdbf0eec9fcefb482f511850a37cd2d5f41"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f787fcfcd2fe93ff11a47cf566af1cfdbd97a8b8",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/f787fcfcd2fe93ff11a47cf566af1cfdbd97a8b8"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/figures/README-unnamed-chunk-6-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d300d702530451d7fac559b66b6faf1bf455055e",
+      "size": 48546,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d300d702530451d7fac559b66b6faf1bf455055e"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/help/paths.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d543f4e0c70cd1c8909b53463b02daa76bc54778",
+      "size": 267,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d543f4e0c70cd1c8909b53463b02daa76bc54778"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/html",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86cc983267a97228233004e0694554057b62b83b",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/86cc983267a97228233004e0694554057b62b83b"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/html/00Index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e17b9cc3b719eb26822d7edf8f003f9bca86a56",
+      "size": 2338,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/3e17b9cc3b719eb26822d7edf8f003f9bca86a56"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/new/WSCdata/html/R.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2289098f8766dc321ac993cb82ca0f449b20d81",
+      "size": 1844,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c2289098f8766dc321ac993cb82ca0f449b20d81"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b4cfd9b973a7cd891120c6912286cd8ff3623083",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/b4cfd9b973a7cd891120c6912286cd8ff3623083"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c4022b87ec3f69f0bab4f15567d319d6a7fcc14b",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/c4022b87ec3f69f0bab4f15567d319d6a7fcc14b"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/DESCRIPTION",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff996197ceea67021a5cd56cfb00d1ff0b3d0a07",
+      "size": 1315,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/ff996197ceea67021a5cd56cfb00d1ff0b3d0a07"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/INDEX",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "521f3f668212f7f8ef34c201b7d78db5af8a3efb",
+      "size": 552,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/521f3f668212f7f8ef34c201b7d78db5af8a3efb"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d297f98be18dff9ee33f39ae3b92d206b26d51d",
+      "size": 45,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/3d297f98be18dff9ee33f39ae3b92d206b26d51d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2afae46b37e6bda733d747c2180ab4edb4ad4950",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/2afae46b37e6bda733d747c2180ab4edb4ad4950"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/Rd.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9dd9a7c0857b4d87acd16c612664a4269c642d8",
+      "size": 493,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/d9dd9a7c0857b4d87acd16c612664a4269c642d8"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/data.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f818665cb20633773e0c592b336b9063b1b7eb3",
+      "size": 285,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6f818665cb20633773e0c592b336b9063b1b7eb3"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/features.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50af8bf0618e251aca03bf82ae1cea188d9d3925",
+      "size": 122,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/50af8bf0618e251aca03bf82ae1cea188d9d3925"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/hsearch.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6029f3940ed46341472ae5fd489d9cdcae33d5d",
+      "size": 486,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/e6029f3940ed46341472ae5fd489d9cdcae33d5d"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/links.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c49977783228097e3ac60c62bf8de76e0f061225",
+      "size": 232,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c49977783228097e3ac60c62bf8de76e0f061225"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/nsInfo.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2cf55d527dd8cb5529edbd961d8a4494d6cd772",
+      "size": 189,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/b2cf55d527dd8cb5529edbd961d8a4494d6cd772"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/Meta/package.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "723f5e6b58f6a4b0b17a9e3755f7dbde769d75f6",
+      "size": 1179,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/723f5e6b58f6a4b0b17a9e3755f7dbde769d75f6"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/NAMESPACE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ae926839dd1829f1016a96f766d970ff184ad97",
+      "size": 46,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6ae926839dd1829f1016a96f766d970ff184ad97"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/NEWS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0657e818792d39d0c835d2d6bc3da7f74551f879",
+      "size": 78,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/0657e818792d39d0c835d2d6bc3da7f74551f879"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/R",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0bee806035179a75e104e3d6c6927db02c8adfaf",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/0bee806035179a75e104e3d6c6927db02c8adfaf"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/R/WSCdata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6686156321de4dbdb52db7e32cd99961007f56e2",
+      "size": 1058,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6686156321de4dbdb52db7e32cd99961007f56e2"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/R/WSCdata.rdb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90c7e9a2ea06684c48800a90e6367080facde232",
+      "size": 869,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/90c7e9a2ea06684c48800a90e6367080facde232"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/R/WSCdata.rdx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "733d224581a4507a5f60ef00f20a41a23b96a822",
+      "size": 235,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/733d224581a4507a5f60ef00f20a41a23b96a822"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0cfb40be8f677dfe2fc043551152c228db5a46a5",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/0cfb40be8f677dfe2fc043551152c228db5a46a5"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/data/Rdata.rdb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e62bc8c00c999e9957685b0864821b6f6df1ae9",
+      "size": 169738,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/4e62bc8c00c999e9957685b0864821b6f6df1ae9"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/data/Rdata.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7b94671f849c0dfc65c978b40e32cea8a9f4605",
+      "size": 184,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/a7b94671f849c0dfc65c978b40e32cea8a9f4605"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/data/Rdata.rdx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c2a3e41eb1c1409cadc65b339ebdbae16370c06",
+      "size": 298,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/6c2a3e41eb1c1409cadc65b339ebdbae16370c06"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3efe995f3b183de3e6c2c8b0c8ebf04db7fffc53",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/3efe995f3b183de3e6c2c8b0c8ebf04db7fffc53"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/AnIndex",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c20c6583b32b09453473e70134192fad8d40c7c2",
+      "size": 244,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c20c6583b32b09453473e70134192fad8d40c7c2"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/WSCdata.rdb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37f36cf0e231c7c9206cf1fd47fdf07118fadccc",
+      "size": 22978,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/37f36cf0e231c7c9206cf1fd47fdf07118fadccc"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/WSCdata.rdx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88958c7fb2a487b6fe0010b122ecc52f38857c8f",
+      "size": 389,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/88958c7fb2a487b6fe0010b122ecc52f38857c8f"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/aliases.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bb73d8de0417acf82d96ecfe533e40edb14e3f8",
+      "size": 156,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/7bb73d8de0417acf82d96ecfe533e40edb14e3f8"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "53aa6dd116e13bb7b951694e55c8ddf13955e700",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/53aa6dd116e13bb7b951694e55c8ddf13955e700"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/figures/README-unnamed-chunk-6-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "346f9367bdd1a9ede9c60ee2ef8d6cf79179df35",
+      "size": 48529,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/346f9367bdd1a9ede9c60ee2ef8d6cf79179df35"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/help/paths.rds",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdae6d1049f675e5af7d4bcb2a6018fe5cd047e1",
+      "size": 229,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/bdae6d1049f675e5af7d4bcb2a6018fe5cd047e1"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/html",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dc57ee0f622b0b150868db273fe3d2024df55c83",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/dc57ee0f622b0b150868db273fe3d2024df55c83"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/html/00Index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f004283e6aaa12ed465ad9def8efda6fbbdeb05a",
+      "size": 2338,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/f004283e6aaa12ed465ad9def8efda6fbbdeb05a"
+    },
+    {
+      "path": "revdep/library.noindex/WSCdata/old/WSCdata/html/R.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2289098f8766dc321ac993cb82ca0f449b20d81",
+      "size": 1844,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/c2289098f8766dc321ac993cb82ca0f449b20d81"
+    },
+    {
+      "path": "revdep/problems.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a2073633969291ca5c5a5656cea57eef4d8b1a1",
+      "size": 29,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/9a2073633969291ca5c5a5656cea57eef4d8b1a1"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "904232c824a9f1f4b129b5f86b67050446177ba4",
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/trees/904232c824a9f1f4b129b5f86b67050446177ba4"
+    },
+    {
+      "path": "tests/testthat.R",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "705d3a2fa299bea371419f602082734d7365600c",
+      "size": 398,
+      "url": "https://api.github.com/repos/jzangela/WSCdata/git/blobs/705d3a2fa299bea371419f602082734d7365600c"
+    }
+  ],
+  "truncated": false
+}
